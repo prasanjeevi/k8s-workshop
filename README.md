@@ -23,7 +23,7 @@
 - Labels & Selectors
 ---
 ### Cluster Architecture
-<img src="k8s.png" alt="k8s arch">
+<img src="K8S.png?raw=true" alt="k8s arch">
 
 ---
 ### Nodes 
