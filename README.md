@@ -432,13 +432,13 @@ spec:
 - 1 CPU unit = 1 vCPU/Core or 1 hyperthread | 1CPU = 1000m | 500m = 0.5CPU
 
 
-## Probes
+### Probes
 The kubelet uses
 - liveness probes to know when to restart a container
 - readiness probes to know when a container is ready to start accepting traffic
 - startup probes to know when a container application has started.
 ---
-### Pod with Probes
+#### Pod with Probes
 ```
 apiVersion: v1
 kind: Pod
