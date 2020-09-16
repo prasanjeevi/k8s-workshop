@@ -1036,3 +1036,27 @@ PodExceedsFreeMemory -> Insufficient memory on the node
 PodExceedsFreeCPU -> Insufficient CPU on the node
 OOM Killed -> Out of memory
 ```
+
+
+# Some Resources to Learn & Do
+```
+## Official Site
+https://kubernetes.io/
+https://kubernetes.io/docs/home/
+
+## Setup your environment
+https://kubernetes.io/docs/setup/learning-environment/
+https://kubernetes.io/docs/setup/production-environment/
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
+
+## Tutorials & Playgrounds (Free)
+https://kubernetes.io/docs/tutorials/
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
+https://www.katacoda.com/learn?q=kubernetes&hPP=12&idx=scenarios&p=1&is_v=1
+https://labs.play-with-k8s.com/
+https://labs.play-with-docker.com/
+
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/
+
+```
