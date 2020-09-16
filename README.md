@@ -1038,7 +1038,7 @@ OOM Killed -> Out of memory
 ```
 
 
-# Some Resources to Learn & Do
+## Some Resources to Learn & Do
 ```
 ## Official Site
 https://kubernetes.io/
